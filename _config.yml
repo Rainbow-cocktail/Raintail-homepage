@@ -25,10 +25,11 @@ author:
   name             : "Raintail云尾"
   pronouns         : # example: "she/her"  
   bio              : "Learning is an art of compromise"
+  QQ               : "1852772611"
   location         : "深圳,中国"
   employer         : "哈尔滨工业大学（深圳）"
   uri              : "https://rainbow-cocktail.github.io/Raintail-homepage/"
-  email            : "1852772611@qq.com" 
+  email            : "3336271394@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -72,8 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
-  QQ               : 185277261
+  zhihu            : # Username            
   
 
 # Publication Category - The following the list of publication categories and their headings
