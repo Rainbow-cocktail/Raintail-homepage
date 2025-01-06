@@ -26,9 +26,6 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "About Me"
-    url: /about/
-
   - title: "Hobbies"
     url: /hobbies/
 
