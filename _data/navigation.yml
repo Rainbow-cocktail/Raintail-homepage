@@ -26,5 +26,20 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Photography"
-    url: /photography/
+  - title: "About Me"
+    url: /about/
+
+  - title: "Hobbies"
+    url: /hobbies/
+
+  - title: "Photo Gallery"
+    url: /photos/
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "Fun Projects"
+    url: /projects/
