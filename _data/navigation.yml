@@ -35,8 +35,8 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
 
   - title: "Fun Projects"
     url: /projects/
