@@ -1,6 +1,6 @@
 ---
-title: "🍅🥚西红柿炒鸡蛋"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://fakeimg.pl/300/'>"
+title: "🥚胡萝卜炒鸡蛋"
+excerpt: "胡萝卜丝炒鸡蛋<br/><img src='https://s2.loli.net/2025/02/04/SAO8XxVapqZiwF2.png'>"
 collection: food
 ---
 
