@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2107488a-7b80-42ac-881b-ea7e3363fede)![image](https://github.com/user-attachments/assets/f8b44f1d-df30-4135-aa5f-e9ddc0904e22)---
+---
 title: "🍅🥚西红柿炒鸡蛋"
 excerpt: "Short description of portfolio item number 1<br/><img src='https://fakeimg.pl/300/'>"
 collection: food
